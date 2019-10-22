@@ -1,3 +1,14 @@
 D:\CURSOS\UCL\C#\AED1-Sistema-Solar\obj\Debug\netcoreapp3.0\AED1-Sistema-Solar.csprojAssemblyReference.cache
 D:\CURSOS\UCL\C#\AED1-Sistema-Solar\obj\Debug\netcoreapp3.0\AED1-Sistema-Solar.AssemblyInfoInputs.cache
 D:\CURSOS\UCL\C#\AED1-Sistema-Solar\obj\Debug\netcoreapp3.0\AED1-Sistema-Solar.AssemblyInfo.cs
+D:\CURSOS\UCL\AED1-Sistema-Solar\bin\Debug\netcoreapp3.0\AED1-Sistema-Solar.exe
+D:\CURSOS\UCL\AED1-Sistema-Solar\bin\Debug\netcoreapp3.0\AED1-Sistema-Solar.deps.json
+D:\CURSOS\UCL\AED1-Sistema-Solar\bin\Debug\netcoreapp3.0\AED1-Sistema-Solar.runtimeconfig.json
+D:\CURSOS\UCL\AED1-Sistema-Solar\bin\Debug\netcoreapp3.0\AED1-Sistema-Solar.runtimeconfig.dev.json
+D:\CURSOS\UCL\AED1-Sistema-Solar\bin\Debug\netcoreapp3.0\AED1-Sistema-Solar.dll
+D:\CURSOS\UCL\AED1-Sistema-Solar\bin\Debug\netcoreapp3.0\AED1-Sistema-Solar.pdb
+D:\CURSOS\UCL\AED1-Sistema-Solar\obj\Debug\netcoreapp3.0\AED1-Sistema-Solar.csprojAssemblyReference.cache
+D:\CURSOS\UCL\AED1-Sistema-Solar\obj\Debug\netcoreapp3.0\AED1-Sistema-Solar.AssemblyInfoInputs.cache
+D:\CURSOS\UCL\AED1-Sistema-Solar\obj\Debug\netcoreapp3.0\AED1-Sistema-Solar.AssemblyInfo.cs
+D:\CURSOS\UCL\AED1-Sistema-Solar\obj\Debug\netcoreapp3.0\AED1-Sistema-Solar.dll
+D:\CURSOS\UCL\AED1-Sistema-Solar\obj\Debug\netcoreapp3.0\AED1-Sistema-Solar.pdb
