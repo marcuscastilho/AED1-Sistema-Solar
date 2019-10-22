@@ -5,10 +5,11 @@ class planeta
     private string [] satelites = new string [];
     
     //CONSTRUTORES
-    public planeta(float m, float d, float ds){
+    public planeta(float m, float d, float ds, float ps){
         massa = m;
         diametro = d;
         dist_sol = ds;
+        pos_sistSolar = ps;
         
     }
 

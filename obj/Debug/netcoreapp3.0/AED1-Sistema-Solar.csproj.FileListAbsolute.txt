@@ -1,0 +1,3 @@
+D:\CURSOS\UCL\C#\AED1-Sistema-Solar\obj\Debug\netcoreapp3.0\AED1-Sistema-Solar.csprojAssemblyReference.cache
+D:\CURSOS\UCL\C#\AED1-Sistema-Solar\obj\Debug\netcoreapp3.0\AED1-Sistema-Solar.AssemblyInfoInputs.cache
+D:\CURSOS\UCL\C#\AED1-Sistema-Solar\obj\Debug\netcoreapp3.0\AED1-Sistema-Solar.AssemblyInfo.cs
