@@ -1,4 +1,4 @@
-class sol
+class estrelas
 {
     //ATRIBUTOS
     private float massa, diametro, temp_media;
@@ -7,7 +7,7 @@ class sol
     }
 
     //CONSTRUTORES
-    public sol(float m, float d, float tm){
+    public estrelas(float m, float d, float tm){
         massa = m;
         diametro = d;
         temp_media = tm;
